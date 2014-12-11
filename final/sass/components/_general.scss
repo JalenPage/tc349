@@ -1,0 +1,43 @@
+body{
+  background-color: #900;
+}
+
+h1{
+  font-size: 140px;
+  color: #FFFFCC;
+  display: inline;
+  font-family: Times;
+}
+
+h2{
+  display: inline;
+  padding-left: 220px;
+  font-family: times;
+  font-size: 80px;
+  color: #FFFFCC;
+}
+
+ul{
+  list-style-type: none;
+}
+
+header{
+  background-color: #2980b9;
+  padding: .5em 0;
+  text-align: center;
+  color: #fff;
+}
+
+a, a:visited{
+  color:#228FEA;
+  text-decoration:none;
+}
+
+a:hover{
+  color:#AACAF9;
+  border-bottom:1px dashed #228FEA;
+}
+
+img{
+  max-width: 100%;
+}

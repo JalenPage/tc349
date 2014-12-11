@@ -1,0 +1,63 @@
+#bigPicture
+{
+  border:3px #7A0000 solid;
+}
+
+#largeImage
+{
+  height:210px;
+  width:500px;
+  overflow:auto;
+  border:3px #7A0000 solid;
+  background-color:#FFDDB8;
+  text-align:left;;
+}
+
+#theForm
+{
+  text-align:left;
+  width:300px;
+}
+
+form 
+{
+  background:#FFDDB8;
+  padding-top:20px;
+  padding-bottom:20px;
+  border:3px solid #7A0000;
+  width:15em;
+  overflow:none;
+  height:680px;
+  margin-left: 3px;
+}
+
+fieldset
+{
+  border:0px;
+  font-size:large;
+}
+
+label 
+{
+  float:none;
+  width:12em;
+  display:block;
+}
+
+p.info
+{
+  color:#7A0000;
+  text-align:left;
+  margin-top:0px;
+}
+
+input
+{
+  border:3px solid #ddd;
+}
+
+table
+{
+  margin-right:auto;
+  margin-left:auto; 
+}
